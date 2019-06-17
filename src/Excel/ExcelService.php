@@ -12,7 +12,6 @@ namespace Cly\Excel;
 use PhpOffice\PhpSpreadsheet\Cell\Cell;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
-use Cly\Spreadsheet\NoScienceValueBinder;
 
 class ExcelService
 {

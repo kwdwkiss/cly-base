@@ -6,7 +6,7 @@
  * Time: 上午1:20
  */
 
-namespace Cly\Spreadsheet;
+namespace Cly\Excel;
 
 use PhpOffice\PhpSpreadsheet\Cell\Cell;
 use PhpOffice\PhpSpreadsheet\Cell\DataType;
