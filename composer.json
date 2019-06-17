@@ -1,0 +1,22 @@
+{
+    "name": "cly/base",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kwdwkiss",
+            "email": "kwdwkisscly@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cly\\":"src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {
+        "illuminate/framework": "^5.5",
+        "cly/code-generator": "dev-master"
+    }
+}
